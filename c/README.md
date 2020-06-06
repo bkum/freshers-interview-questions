@@ -21,38 +21,6 @@ Also, C language is an ANSI/ISO standard and powerful programming language for d
 - [Intermediate](/c/datastructure/intermediate.md)
 - [Advanced](/c/datastructure/beginner.md)
 
-### C++ Language
-#### Theoretical questions
-- [Beginner](/c++/theoretical/beginner.md)
-- [Intermediate](/c++/theoretical/intermediate.md)
-- [Advanced](/c++/theoretical/beginner.md)
-
-#### Programming questions
-- [Beginner](/c++/programming/beginner.md)
-- [Intermediate](/c++/programming/intermediate.md)
-- [Advanced](/c++/programming/beginner.md)
-
-#### Datastructure questions
-- [Beginner](/c++/datastructure/beginner.md)
-- [Intermediate](/c++/datastructure/intermediate.md)
-- [Advanced](/c++/datastructure/beginner.md)
-
-### Java Language
-#### Theoretical questions
-- [Beginner](/java/theoretical/beginner.md)
-- [Intermediate](/java/theoretical/intermediate.md)
-- [Advanced](/java/theoretical/beginner.md)
-
-#### Programming questions
-- [Beginner](/java/programming/beginner.md)
-- [Intermediate](/java/programming/intermediate.md)
-- [Advanced](/java/programming/beginner.md)
-
-#### Datastructure questions
-- [Beginner](/java/datastructure/beginner.md)
-- [Intermediate](/java/datastructure/intermediate.md)
-- [Advanced](/java/datastructure/beginner.md)
-
 ## References
 
 - [www.javatpoint.com](https://www.javatpoint.com/c-interview-questions)
